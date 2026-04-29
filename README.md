@@ -6,7 +6,6 @@
   When I'm not having an existential crisis over a config, you'll probably find me gaming or sining my heart out to The Neighbourhood. 🎵
 </p>
 <br />
-
 <br />
 <h2 align="center">🖥️ What I'm Into</h2>
 <br />
@@ -20,7 +19,6 @@
   🎨 &nbsp; Making Things Look Aesthetic
 </p>
 <br />
-
 <br />
 <h2 align="center">🛠️ Stuff I Use</h2>
 <br />
@@ -44,7 +42,6 @@
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
 <br />
-
 <br />
 <h2 align="center">🌐 Connect With Me</h2>
 <br />
