@@ -1,9 +1,9 @@
 <h1 align="center">👾 Hey, I'm Aetherelic</h1>
-<h3 align="center"><i>Just a Linux nerd making my desktop look cooler than it needs to 🐧✨</i></h3>
+<h3 align="center"><i>Just a Linux neek making my desktop look more eaesthetic than it needs to be 🐧✨</i></h3>
 <br />
 <p align="center">
-  I'm a <strong>Linux enthusiast</strong> with a passion for <strong>ricing</strong>, building cozy setups, and making everything look just right.<br />
-  When I'm not tweaking configs, you'll probably find me gaming or vibing to some lofi. 🎵
+  I'm a <strong>Linux enthusiast</strong> with a passion for <strong>ricing</strong>, making my desktop look perfect and making everything look just right.<br />
+  When I'm not having an existential crisis over a config, you'll probably find me gaming or sining my heart out to The Neighbourhood. 🎵
 </p>
 <br />
 
@@ -15,7 +15,7 @@
   <br /><br />
   🎮 &nbsp; Gaming
   <br /><br />
-  🎵 &nbsp; Lofi & Chill Music
+  🎵 &nbsp; Music
   <br /><br />
   🎨 &nbsp; Making Things Look Aesthetic
 </p>
