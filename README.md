@@ -1,14 +1,20 @@
 <h1 align="center">👾 Hey, I'm Aetherelic</h1>
-<h3 align="center"><i>Just a Linux neek making my desktop look more eaesthetic than it needs to be 🐧✨</i></h3>
+<h3 align="center"><i>Just a Linux neek making my desktop look more aesthetic than it needs to be 🐧✨</i></h3>
+
 <br />
+
 <p align="center">
   I'm a <strong>Linux enthusiast</strong> with a passion for <strong>ricing</strong>, making my desktop look perfect and making everything look just right.<br />
-  When I'm not having an existential crisis over a config, you'll probably find me gaming or sining my heart out to The Neighbourhood. 🎵
+  When I'm not having an existential crisis over a config, you'll probably find me gaming or singing my heart out to The Neighbourhood. 🎵
 </p>
+
 <br />
 <br />
+
 <h2 align="center">🖥️ What I'm Into</h2>
+
 <br />
+
 <p align="center">
   🐧 &nbsp; Linux Ricing & Custom Desktop Setups
   <br /><br />
@@ -18,11 +24,16 @@
   <br /><br />
   🎨 &nbsp; Making Things Look Aesthetic
 </p>
+
 <br />
 <br />
+
 <h2 align="center">🛠️ Stuff I Use</h2>
+
 <br />
+
 <h4 align="center">Operating System & Shell</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   &nbsp;
@@ -30,8 +41,11 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
+
 <br />
+
 <h4 align="center">Tools & Apps</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   &nbsp;
@@ -40,11 +54,21 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
+
 <br />
 <br />
+
 <h2 align="center">🌐 Connect With Me</h2>
+
 <br />
+
 <p align="center">
   <a href="https://twitter.com/Aetherelic">
     <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -54,7 +78,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-<br />
 
 <br />
+
 <p align="center"><i></i></p>
