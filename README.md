@@ -18,6 +18,8 @@
 <p align="center">
   🐧 &nbsp; Linux Ricing & Custom Desktop Setups
   <br /><br />
+  ⚡ &nbsp; Kaizen Linux
+  <br /><br />
   🎮 &nbsp; Gaming
   <br /><br />
   🎵 &nbsp; Music
@@ -36,6 +38,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kaizen%20Linux-7C3AED?style=for-the-badge&logo=linux&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   &nbsp;
