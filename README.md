@@ -1,10 +1,10 @@
 <h1 align="center">👾 Hey, I'm Aetherelic</h1>
-<h3 align="center"><i>Linux developer, currently working on Kaizen Linux and ricing 🐧✨</i></h3>
+<h3 align="center"><i>Linux developer, currently working on Kaizen Linux 🐧✨</i></h3>
 
 <br />
 
 <p align="center">
-  I'm a <strong>Linux enthusiast</strong> with a passion for <strong>Linux Distrobutions and Ricing<strong>, making my desktop look perfect and making everything look just right.<br />
+  I'm a <strong>Linux enthusiast</strong> with a passion for <strong>Linux Distributions and Ricing<strong>, making my desktop look perfect and making everything look just right.<br />
 
 </p>
 
