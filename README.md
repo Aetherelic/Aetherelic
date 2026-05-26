@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  I'm a <strong>Linux enthusiast</strong> with a passion for <strong>ricing</strong>, making my desktop look perfect and making everything look just right.<br />
+  I'm a <strong>Linux enthusiast</strong> with a passion for <strong>Linux Distrobutions and Ricing/strong>, making my desktop look perfect and making everything look just right.<br />
   When I'm not having an existential crisis over a config, you'll probably find me gaming or singing my heart out to The Neighbourhood. 🎵
 </p>
 
