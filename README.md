@@ -1,5 +1,5 @@
 <h1 align="center">👾 Hey, I'm Aetherelic</h1>
-<h3 align="center"><i>Just a Linux neek making my desktop look more aesthetic than it needs to be 🐧✨</i></h3>
+<h3 align="center"><i>Linux developer, currently working on Kaizen Linux and ricing 🐧✨</i></h3>
 
 <br />
 
