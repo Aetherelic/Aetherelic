@@ -74,19 +74,6 @@ ideal_system   = functionality + identity + cohesion
 
 <br />
 
-<h2 align="center"><code>02 // ACTIVE_BUILDS</code></h2>
-
-<div align="center">
-
-|    Signal    | Project                    | Current mission                                                                                    |
-| :----------: | :------------------------- | :------------------------------------------------------------------------------------------------- |
-|  `● ACTIVE`  | **Kaizen Linux**           | Creating a cohesive Linux distribution focused on performance, customisation and desktop identity. |
-|  `● ACTIVE`  | **Arcane Studio**          | An umbrella ecosystem for Linux interface, safety and personalisation tools.                       |
-|  `● ACTIVE`  | **Arcane Shell**           | Building a spatial-glass desktop shell with QML, Quickshell and Hyprland.                          |
-|  `● ACTIVE`  | **Arcane Guard**           | Inspecting terminal commands and scripts for destructive or dangerous behaviour.                   |
-|  `◉ DESIGN`  | **Arcane Themes**          | Developing a unified theme and rice-management system.                                             |
-| `◌ EVOLVING` | **Adaptive Hyprland Rice** | Exploring dynamic colour generation, dashboards, widgets and responsive desktop design.            |
-
 </div>
 
 <p align="center">
@@ -97,7 +84,7 @@ ideal_system   = functionality + identity + cohesion
 
 <br />
 
-<h2 align="center"><code>03 // OPERATING_SYSTEM_FLEET</code></h2>
+<h2 align="center"><code>02 // OPERATING_SYSTEM_FLEET</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NixOS-0B1220?style=for-the-badge&logo=nixos&logoColor=7DD3FC" alt="NixOS" />
@@ -114,7 +101,7 @@ ideal_system   = functionality + identity + cohesion
 
 <br />
 
-<h2 align="center"><code>04 // LANGUAGE_MATRIX</code></h2>
+<h2 align="center"><code>03 // LANGUAGE_MATRIX</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/QML-111827?style=for-the-badge&logo=qt&logoColor=41CD52" alt="QML" />
@@ -132,7 +119,7 @@ ideal_system   = functionality + identity + cohesion
 
 <br />
 
-<h2 align="center"><code>05 // TOOLCHAIN</code></h2>
+<h2 align="center"><code>04 // TOOLCHAIN</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hyprland-020617?style=for-the-badge&logo=wayland&logoColor=7DD3FC" alt="Hyprland" />
@@ -150,7 +137,7 @@ ideal_system   = functionality + identity + cohesion
 
 <br />
 
-<h2 align="center"><code>06 // DEVELOPMENT_PHILOSOPHY</code></h2>
+<h2 align="center"><code>05 // DEVELOPMENT_PHILOSOPHY</code></h2>
 
 <table align="center">
   <tr>
@@ -171,7 +158,7 @@ ideal_system   = functionality + identity + cohesion
 
 <br />
 
-<h2 align="center"><code>07 // GITHUB_TELEMETRY</code></h2>
+<h2 align="center"><code>06 // GITHUB_TELEMETRY</code></h2>
 
 <p align="center">
   <img
@@ -204,7 +191,7 @@ ideal_system   = functionality + identity + cohesion
 
 <br />
 
-<h2 align="center"><code>08 // OFFLINE_INTERESTS</code></h2>
+<h2 align="center"><code>07 // OFFLINE_INTERESTS</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GAMING-020617?style=for-the-badge&logo=steam&logoColor=7DD3FC" alt="Gaming" />
@@ -215,7 +202,7 @@ ideal_system   = functionality + identity + cohesion
 
 <br />
 
-<h2 align="center"><code>09 // ESTABLISH_CONNECTION</code></h2>
+<h2 align="center"><code>08 // ESTABLISH_CONNECTION</code></h2>
 
 <p align="center">
   <a href="https://github.com/Aetherelic">
@@ -230,12 +217,6 @@ ideal_system   = functionality + identity + cohesion
 </p>
 
 <br />
-
-<p align="center">
-  <samp>
-    “Make it work. Make it coherent. Make it beautiful.”
-  </samp>
-</p>
 
 <p align="center">
   <sub>
