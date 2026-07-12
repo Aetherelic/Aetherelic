@@ -72,9 +72,7 @@
 
 <br />
 
-```
-class AbhigyanTrips():
-    
+``` 
   def __init__(self):
     self.name = "Aether";
     self.username = "aetherelic";
