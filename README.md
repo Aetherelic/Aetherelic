@@ -63,12 +63,6 @@
 
 <div align="center">
 
-```text
-functionality != excuse_for_ugly
-aesthetics    != substitute_for_functionality
-
-ideal_system   = functionality + identity + cohesion
-```
 
 </div>
 
