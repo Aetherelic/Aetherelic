@@ -37,17 +37,15 @@
 <h4 align="center">Operating Systems & Shell</h4>
 
 <p align="center">
-  <img src= "https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  &nbsp;
-  <img src= "https://img.shields.io/badge/Kaizen%20Linux-7C3AED?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src= "https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" />
   &nbsp;
   <img src= "https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff" />
   &nbsp;
   <img src= "https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   &nbsp;
-  <img src= "https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src= "https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
   &nbsp;
-  <img src= "https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src= "https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
   &nbsp;
   <img src= "https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
