@@ -8,7 +8,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:0F172A,100:312E81&text=AETHERELIC&fontColor=F8FAFC&fontSize=64&fontAlignY=42&desc=LINUX%20SYSTEMS%20%C2%B7%20INTERFACE%20ENGINEERING%20%C2%B7%20KAIZEN%20LINUX&descAlignY=64&descSize=16&animation=twinkling&stroke=7DD3FC&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:0F172A,100:312E81&text=AETHERELIC&fontColor=F8FAFC&fontSize=64&fontAlignY=42&desc=NixOS%20Fanboy%20%C2%B7%20Ameteur%20Developer%20%C2%B7%20Certified%20Boykisser&descAlignY=64&descSize=16&animation=twinkling&stroke=7DD3FC&strokeWidth=1"
     alt="Aetherelic header"
   />
 </p>
