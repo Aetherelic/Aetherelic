@@ -131,25 +131,6 @@
 
 <br />
 
-<h2 align="center"><code>05 // DEVELOPMENT_PHILOSOPHY</code></h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>⚙️ Engineer</h3>
-      <p>Build tools that solve real problems and remain understandable.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>◈ Refine</h3>
-      <p>Iterate until every component feels deliberate and cohesive.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>✦ Atmosphere</h3>
-      <p>Create interfaces with identity, depth and a reason to exist.</p>
-    </td>
-  </tr>
-</table>
-
 <br />
 
 <h2 align="center"><code>06 // GITHUB_TELEMETRY</code></h2>
