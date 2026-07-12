@@ -15,7 +15,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=7DD3FC&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+Kaizen+Linux...;Engineering+QML+desktop+environments...;Designing+the+Arcane+Studio+ecosystem...;Ricing+Linux+until+every+pixel+feels+intentional."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=7DD3FC&center=true&vCenter=true&repeat=true&width=760&height=45&lines=S+Tier+Larping...;No.1+Linux+Fanboy...;Designing+the+Arcane+Studio+ecosystem...;Ricing+Linux+until+every+pixel+feels+intentional."
     alt="Animated introduction"
   />
 </p>
