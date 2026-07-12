@@ -41,6 +41,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Kaizen%20Linux-7C3AED?style=for-the-badge&logo=linux&logoColor=white" />
   &nbsp;
+  <img src= "https://img.shields.io/badge/Nix%20OS-1793D1?style=for-the-badge&logo=nixos&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   &nbsp;
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
