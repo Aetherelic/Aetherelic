@@ -31,11 +31,7 @@
 <br />
 
 <p align="center">
-  <samp>
-    ┌─ SYSTEM ONLINE ─────────────────────────────────────────┐<br />
-    │ Building Linux environments where engineering and art meet. │<br />
-    └─────────────────────────────────────────────────────────┘
-  </samp>
+
 </p>
 
 <br />
@@ -43,14 +39,15 @@
 <h2 align="center"><code>01 // SYSTEM_IDENTITY</code></h2>
 
 <p align="center">
-  I am <strong>Aetherelic</strong>, a Linux developer and desktop interface enthusiast from Liverpool, UK.
+  Welcome to my page, I am <strong>Aether</strong>, and I am an ameteur programmer/ developer trying to learn more about Open Source Liverpool, UK.
   <br /><br />
   My work centres around Linux distributions, QML desktop shells, system tooling and highly customised
   environments that treat <strong>visual identity as part of the user experience</strong> rather than an afterthought.
 </p>
 
 ```bash
-aether@kaizen:~$ aetherctl inspect --profile
+╭─ aether@nixos ~/  00:24 
+╰─❯ aetherctl inspect --profile
 
  identity      Aetherelic
  username      aetherelic
@@ -62,8 +59,6 @@ aether@kaizen:~$ aetherctl inspect --profile
  focus         Kaizen Linux
  interface     QML + Quickshell + Hyprland
 
- doctrine      function × precision × atmosphere
- status        [██████████████████░░] compiling the future
 ```
 
 <div align="center">
