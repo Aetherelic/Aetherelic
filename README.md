@@ -1,7 +1,7 @@
 <!--
 ╭──────────────────────────────────────────────────────────────╮
 │                      AETHERELIC // README                    │
-│          Linux systems · interface engineering · rice        │
+│          NixOS' Biggest Fanboy · Ametuer Developer ·         │
 ╰──────────────────────────────────────────────────────────────╯
 -->
 
