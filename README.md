@@ -48,6 +48,10 @@
   <img src= "https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
   &nbsp;
   <img src= "https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  &nbsp;
+  <img src= "https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
+  &nbsp;
+  
 </p>
 
 <br />
