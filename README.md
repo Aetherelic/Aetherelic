@@ -78,7 +78,7 @@
 
 <br />
 
-<h2 align="center"><code>02 // OPERATING_SYSTEM_FLEET</code></h2>
+<h2 align="center"><code>02 // OPERATING SYSTEMS I USE DAY TO DAY</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NixOS-0B1220?style=for-the-badge&logo=nixos&logoColor=7DD3FC" alt="NixOS" />
@@ -95,7 +95,7 @@
 
 <br />
 
-<h2 align="center"><code>03 // LANGUAGE_MATRIX</code></h2>
+<h2 align="center"><code>03 // CODING LANGUAGES I USE</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/QML-111827?style=for-the-badge&logo=qt&logoColor=41CD52" alt="QML" />
