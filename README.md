@@ -8,22 +8,6 @@
 
 </p>
 
-```
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Aether";
-    self.username = "aetherelic";
-    self.location = "Liverpool, United Kingdom";
-    self.twitter = "@aetherelic";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = https://github.com/Aetherelic()
-```
-
 <br />
 <br />
 
@@ -87,6 +71,23 @@ if __name__ == '__main__':
 </p>
 
 <br />
+
+```
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Aether";
+    self.username = "aetherelic";
+    self.location = "Liverpool, United Kingdom";
+    self.twitter = "@aetherelic";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = https://github.com/Aetherelic()
+```
+
 <br />
 
 <h2 align="center">🌐 Connect With Me</h2>
