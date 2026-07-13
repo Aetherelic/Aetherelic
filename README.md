@@ -193,7 +193,7 @@
 
 <p align="center">
   <sub>
-    Built on Linux · Powered by Bash · Rendered with unnecessary attention to detail
+    Built on Linux · Powered by Bash 
   </sub>
 </p>
 
