@@ -52,12 +52,11 @@
  identity      Aetherelic
  username      aetherelic
  location      Liverpool, United Kingdom
- role          Linux Developer / Interface Engineer
+ role          Linux Developer 
 
  shell         /usr/bin/bash
- primary       Linux
- focus         Kaizen Linux
- interface     QML + Quickshell + Hyprland
+ primary       NixOS & Gentoo
+
 
 ```
 
@@ -78,7 +77,7 @@
 
 <br />
 
-<h2 align="center"><code>02 // OPERATING SYSTEMS I USE DAY TO DAY</code></h2>
+<h2 align="center"><code>02 // OPERATING_SYSTEMS_I_USE</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NixOS-0B1220?style=for-the-badge&logo=nixos&logoColor=7DD3FC" alt="NixOS" />
@@ -90,12 +89,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-0B1220?style=for-the-badge&logo=apple&logoColor=F8FAFC" alt="macOS" />
   <img src="https://custom-icon-badges.demolab.com/badge/Windows_10_LTSC-0B1220?style=for-the-badge&logo=windows10&logoColor=60A5FA" alt="Windows 10 LTSC" />
-  <img src="https://img.shields.io/badge/Shell-Bash-0B1220?style=for-the-badge&logo=gnubash&logoColor=A7F3D0" alt="Bash" />
 </p>
 
 <br />
 
-<h2 align="center"><code>03 // CODING LANGUAGES I USE</code></h2>
+<h2 align="center"><code>03 // LANGUAGES_I_USE</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/QML-111827?style=for-the-badge&logo=qt&logoColor=41CD52" alt="QML" />
@@ -177,7 +175,7 @@
 
 <br />
 
-<h2 align="center"><code>07 // ESTABLISH_CONNECTION</code></h2>
+<h2 align="center"><code>07 // SOCIAL_MEDIAS</code></h2>
 
 <p align="center">
   <a href="https://github.com/Aetherelic">
