@@ -133,7 +133,7 @@
 
 <br />
 
-<h2 align="center"><code>06 // GITHUB_TELEMETRY</code></h2>
+<h2 align="center"><code>05 // GITHUB_TELEMETRY</code></h2>
 
 <p align="center">
   <img
@@ -166,7 +166,7 @@
 
 <br />
 
-<h2 align="center"><code>07 // OFFLINE_INTERESTS</code></h2>
+<h2 align="center"><code>06 // OFFLINE_INTERESTS</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GAMING-020617?style=for-the-badge&logo=steam&logoColor=7DD3FC" alt="Gaming" />
@@ -177,7 +177,7 @@
 
 <br />
 
-<h2 align="center"><code>08 // ESTABLISH_CONNECTION</code></h2>
+<h2 align="center"><code>07 // ESTABLISH_CONNECTION</code></h2>
 
 <p align="center">
   <a href="https://github.com/Aetherelic">
