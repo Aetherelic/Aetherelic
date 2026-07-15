@@ -45,7 +45,7 @@
   environments that treat <strong>visual identity as part of the user experience</strong> rather than an afterthought.
 </p>
 
-![Aether Linux setup card](./assets/riceprint-card.png)]
+<img width="1200" height="675" alt="aether-system-card" src="https://github.com/user-attachments/assets/fbca8e35-c2e5-4d9c-a6bf-2874e82c7e9b" />
 Wanna make a card like this for yourself by any chance? Click here to make one
 
 <div align="center">
