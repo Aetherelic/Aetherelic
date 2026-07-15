@@ -45,17 +45,7 @@
   environments that treat <strong>visual identity as part of the user experience</strong> rather than an afterthought.
 </p>
 
-<img width="1200" height="675" alt="aether-system-card" src="https://github.com/user-attachments/assets/fbca8e35-c2e5-4d9c-a6bf-2874e82c7e9b" />
-Wanna make a card like this for yourself by any chance? Click here to make one
-
 <div align="center">
-
-
-</div>
-
-<br />
-
-</div>
 
 <p align="center">
   <a href="https://github.com/Aetherelic?tab=repositories">
@@ -117,42 +107,7 @@ Wanna make a card like this for yourself by any chance? Click here to make one
 
 <br />
 
-<br />
-
-<h2 align="center"><code>05 // GITHUB_TELEMETRY</code></h2>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=Aetherelic&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=7DD3FC&text_color=CBD5E1&icon_color=A78BFA&ring_color=38BDF8"
-    alt="Aetherelic GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aetherelic&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=7DD3FC&text_color=CBD5E1"
-    alt="Aetherelic most-used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=Aetherelic&hide_border=true&background=00000000&ring=7DD3FC&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC"
-    alt="Aetherelic contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aetherelic&bg_color=00000000&color=94A3B8&line=7DD3FC&point=A78BFA&area=true&area_color=312E81&hide_border=true&custom_title=Aetherelic%20Activity%20Signal"
-    alt="Aetherelic contribution activity graph"
-  />
-</p>
-
-<br />
-
-<h2 align="center"><code>06 // OFFLINE_INTERESTS</code></h2>
+<h2 align="center"><code>05 // OFFLINE_INTERESTS</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GAMING-020617?style=for-the-badge&logo=steam&logoColor=7DD3FC" alt="Gaming" />
@@ -163,7 +118,7 @@ Wanna make a card like this for yourself by any chance? Click here to make one
 
 <br />
 
-<h2 align="center"><code>07 // SOCIAL_MEDIAS</code></h2>
+<h2 align="center"><code>06 // SOCIAL_MEDIAS</code></h2>
 
 <p align="center">
   <a href="https://github.com/Aetherelic">
