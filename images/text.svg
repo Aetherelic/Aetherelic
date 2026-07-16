@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="195" viewBox="0 0 1200 195" role="img">
+<defs></defs>
+<rect width="100%" height="100%" rx="24" fill="#0b1020"/>
+
+<text class="t1" x="600" y="62" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="29" font-weight="700" fill="#f8fafc">Hey, I’m Aether — I build things for Linux.</text>
+<text class="t2" x="600" y="104" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19" fill="#b8c7d9">Python tools, NixOS systems, QML interfaces and open-source experiments.</text>
+<g class="pill">
+ <rect x="374" y="132" width="452" height="42" rx="21" fill="#101c31" stroke="#26CEAA"/>
+ <text x="600" y="159" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="15" fill="#98E8C1">functionality × visual identity</text>
+</g>
+
+</svg>
