@@ -7,13 +7,13 @@
 
 <img src="images/heading-about.svg" alt="A little more about me" width="100%">
 
+<img src="images/about.svg" alt="Aetherelic technical snapshot" width="100%">
+
 <div align="center">
   <a href="https://github.com/Aetherelic"><img src="images/github.svg" alt="GitHub" width="160"></a>
   <a href="https://github.com/Aetherelic/arcane-guard"><img src="images/arcane-guard.svg" alt="Arcane Guard" width="160"></a>
   <a href="https://github.com/Aetherelic/commitquest"><img src="images/commitquest.svg" alt="CommitQuest" width="160"></a>
   <a href="https://github.com/Aetherelic/Riceprint"><img src="images/riceprint.svg" alt="Riceprint" width="160"></a>
-
-<img src="images/about.svg" alt="Aetherelic technical snapshot" width="100%">
 
 Hey, I’m **Aether**, a Linux enthusiast and aspiring open-source developer from the United Kingdom!
 
