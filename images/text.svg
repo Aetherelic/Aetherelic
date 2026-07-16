@@ -1,21 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="218" viewBox="0 0 1200 218" role="img">
 <defs>
 <style>
- .line1{animation:appear .9s ease both}
- .line2{animation:appear .9s .25s ease both}
- .line3{animation:appear .9s .5s ease both}
- @keyframes appear{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:none}}
+ .a{animation:fade .9s ease both}.b{animation:fade .9s .2s ease both}.c{animation:fade .9s .4s ease both}
+ @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 </style>
 </defs>
 
 
-<rect width="1200" height="250" rx="28" fill="#f3f0e9"/>
-<path d="M0 208 C190 170 365 244 570 208 S960 175 1200 215 V250 H0Z" fill="#98E8C1" opacity=".8"/>
-<path d="M0 228 C250 200 370 264 630 225 S980 210 1200 235 V250 H0Z" fill="#7BADE2" opacity=".65"/>
-<circle cx="100" cy="76" r="34" fill="#26CEAA" opacity=".22"/>
-<circle cx="1080" cy="145" r="47" fill="#5049CC" opacity=".18"/>
-<text class="line1" x="600" y="75" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="800" fill="#1b2430">Hey, I’m Aether 👋</text>
-<text class="line2" x="600" y="121" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" fill="#394555">I build Linux tools, system configurations, and custom desktop experiences.</text>
-<text class="line3" x="600" y="158" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#078D70">open-source learner • UI enthusiast • chronic desktop customiser</text>
-
+<rect width="1200" height="218" rx="28" fill="#F4F1EA"/>
+<circle cx="105" cy="73" r="34" fill="#26CEAA" opacity=".22"/>
+<circle cx="1092" cy="121" r="44" fill="#5049CC" opacity=".16"/>
+<text class="a" x="600" y="70" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="35" font-weight="800" fill="#172033">Hey, I’m Aether.</text>
+<text class="b" x="600" y="115" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19" fill="#3D4958">I build Linux tools, system configurations, and custom desktop experiences.</text>
+<rect x="368" y="139" width="464" height="40" rx="20" fill="#E5F0ED" stroke="#078D70" stroke-opacity=".72"/>
+<text class="c" x="600" y="164" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="14" fill="#078D70">open source • interface design • practical engineering</text>
+<rect x="0.00" y="203" width="172.43" height="15" fill="#078D70"/><rect x="171.43" y="203" width="172.43" height="15" fill="#26CEAA"/><rect x="342.86" y="203" width="172.43" height="15" fill="#98E8C1"/><rect x="514.29" y="203" width="172.43" height="15" fill="#FFFFFF"/><rect x="685.71" y="203" width="172.43" height="15" fill="#7BADE2"/><rect x="857.14" y="203" width="172.43" height="15" fill="#5049CC"/><rect x="1028.57" y="203" width="172.43" height="15" fill="#3D1A78"/>
 </svg>

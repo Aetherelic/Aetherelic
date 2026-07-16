@@ -1,15 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="260" viewBox="0 0 580 260" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img">
 <defs>
-<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#20a995"/><stop offset="1" stop-color="#0b6760"/></linearGradient>
-<style>.thing{animation:float 4s ease-in-out infinite;transform-origin:center}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}</style>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+  <stop stop-color="#25B99F"/><stop offset="1" stop-color="#08766A"/>
+</linearGradient>
 </defs>
 
 
-<rect x="1" y="1" width="578" height="258" rx="26" fill="url(#card)" stroke="#ffffff44"/>
-<g class="thing" transform="translate(35 48) rotate(-5 80 55)"><rect width="160" height="110" rx="18" fill="#ffffff24" stroke="#fff" stroke-width="3"/><circle cx="42" cy="43" r="18" fill="#fff"/><rect x="73" y="26" width="65" height="12" rx="6" fill="#fff"/><rect x="73" y="50" width="48" height="9" rx="4" fill="#ffffffaa"/><rect x="24" y="80" width="112" height="10" rx="5" fill="#ffffffaa"/></g>
-<text x="240" y="58" font-family="Inter, Arial" font-size="28" font-weight="800" fill="#fff">Riceprint</text>
-<text x="240" y="88" font-family="Inter, Arial" font-size="15.5" fill="#e8eff3">Exportable identity cards for Linux setups.</text>
-<text x="240" y="130" font-family="Inter, Arial" font-size="15" fill="#eef4f7">• Frontend UI</text><text x="240" y="157" font-family="Inter, Arial" font-size="15" fill="#eef4f7">• Live previews</text><text x="240" y="184" font-family="Inter, Arial" font-size="15" fill="#eef4f7">• Shareable visual assets</text>
-<text x="240" y="232" font-family="JetBrains Mono, monospace" font-size="13.5" fill="#fff">VIEW PROJECT  ↗</text>
+<rect x="1" y="1" width="578" height="248" rx="26" fill="url(#g)" stroke="#FFFFFF42"/>
+<circle cx="103" cy="113" r="68" fill="#FFFFFF18"/>
+<circle cx="103" cy="113" r="48" fill="#FFFFFF16"/>
+<text x="103" y="126" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="29" font-weight="800" fill="#FFFFFF">RP</text>
+<text x="228" y="54" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800" fill="#FFFFFF">Riceprint</text>
+<text x="228" y="84" font-family="Inter, Arial, sans-serif" font-size="14.8" fill="#E8EEF5">Exportable identity cards for Linux setups.</text>
+<text x="228" y="129" font-family="Inter, Arial, sans-serif" font-size="14.5" fill="#EDF3F7">• Frontend UI</text><text x="228" y="156" font-family="Inter, Arial, sans-serif" font-size="14.5" fill="#EDF3F7">• Live previews</text><text x="228" y="183" font-family="Inter, Arial, sans-serif" font-size="14.5" fill="#EDF3F7">• Shareable assets</text>
+<rect x="228" y="201" width="176" height="30" rx="15" fill="#08101955"/>
+<text x="316" y="221" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#FFFFFF">OPEN PROJECT  →</text>
 
 </svg>

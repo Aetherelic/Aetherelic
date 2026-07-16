@@ -1,15 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="260" viewBox="0 0 580 260" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img">
 <defs>
-<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4776b8"/><stop offset="1" stop-color="#263e67"/></linearGradient>
-<style>.thing{animation:float 4s ease-in-out infinite;transform-origin:center}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}</style>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+  <stop stop-color="#4C79BA"/><stop offset="1" stop-color="#263E67"/>
+</linearGradient>
 </defs>
 
 
-<rect x="1" y="1" width="578" height="258" rx="26" fill="url(#card)" stroke="#ffffff44"/>
-<g class="thing" transform="translate(48 40)"><path d="M68 5 L125 38 L125 104 L68 137 L11 104 L11 38 Z" fill="#ffffff22" stroke="#fff" stroke-width="3"/><path d="M68 28 L102 48 L102 87 L68 107 L34 87 L34 48 Z" fill="#fff"/><circle cx="68" cy="68" r="16" fill="#5277C3"/></g>
-<text x="240" y="58" font-family="Inter, Arial" font-size="28" font-weight="800" fill="#fff">NixOS Configuration</text>
-<text x="240" y="88" font-family="Inter, Arial" font-size="15.5" fill="#e8eff3">My modular, reproducible daily-driver system.</text>
-<text x="240" y="130" font-family="Inter, Arial" font-size="15" fill="#eef4f7">• Nix flakes</text><text x="240" y="157" font-family="Inter, Arial" font-size="15" fill="#eef4f7">• Hyprland + Whisker</text><text x="240" y="184" font-family="Inter, Arial" font-size="15" fill="#eef4f7">• Gaming and hardware modules</text>
-<text x="240" y="232" font-family="JetBrains Mono, monospace" font-size="13.5" fill="#fff">VIEW PROJECT  ↗</text>
+<rect x="1" y="1" width="578" height="248" rx="26" fill="url(#g)" stroke="#FFFFFF42"/>
+<circle cx="103" cy="113" r="68" fill="#FFFFFF18"/>
+<circle cx="103" cy="113" r="48" fill="#FFFFFF16"/>
+<text x="103" y="126" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="29" font-weight="800" fill="#FFFFFF">NX</text>
+<text x="228" y="54" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800" fill="#FFFFFF">NixOS Configuration</text>
+<text x="228" y="84" font-family="Inter, Arial, sans-serif" font-size="14.8" fill="#E8EEF5">A modular, reproducible daily-driver system.</text>
+<text x="228" y="129" font-family="Inter, Arial, sans-serif" font-size="14.5" fill="#EDF3F7">• Nix flakes</text><text x="228" y="156" font-family="Inter, Arial, sans-serif" font-size="14.5" fill="#EDF3F7">• Hyprland + Whisker</text><text x="228" y="183" font-family="Inter, Arial, sans-serif" font-size="14.5" fill="#EDF3F7">• Gaming + hardware</text>
+<rect x="228" y="201" width="176" height="30" rx="15" fill="#08101955"/>
+<text x="316" y="221" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#FFFFFF">OPEN PROJECT  →</text>
 
 </svg>
