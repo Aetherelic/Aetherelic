@@ -36,5 +36,5 @@
 <rect x="835" y="212" width="294" height="78" rx="18" fill="#FFFFFF"/>
 <text x="857" y="241" font-family="Inter, Arial" font-size="12" fill="#687586">CURRENT DIRECTION</text>
 <text x="857" y="271" font-family="Inter, Arial" font-size="18.5" font-weight="800" fill="#078D70">Maintainable projects</text>
-<rect x="1150" y="0" width="8" height="322" fill="#078D70"/><rect x="1157" y="0" width="8" height="322" fill="#26CEAA"/><rect x="1164" y="0" width="8" height="322" fill="#98E8C1"/><rect x="1171" y="0" width="8" height="322" fill="#FFFFFF"/><rect x="1178" y="0" width="8" height="322" fill="#7BADE2"/><rect x="1185" y="0" width="8" height="322" fill="#5049CC"/><rect x="1192" y="0" width="8" height="322" fill="#3D1A78"/>
+<rect x="1170" y="28" width="8" height="266" rx="4" fill="#26CEAA" opacity=".55"/>
 </svg>
