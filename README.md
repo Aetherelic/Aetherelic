@@ -13,21 +13,20 @@
 
 <img src="images/about.svg" alt="Aetherelic technical snapshot" width="100%">
 
-Hey, I’m **Aether**, a gay Linux enthusiast and aspiring open-source developer from the United Kingdom.
+Hey, I’m **Aether**, a Linux enthusiast and aspiring open-source developer from the United Kingdom!
 
-I build **Linux tools, command-line applications, NixOS configurations and custom Wayland interfaces**, with an emphasis on practical software, maintainability and thoughtful visual design.
+I build **Linux tools, command-line applications, The occasional rice and things I am interested in**, with an emphasis on aesthetics.
 
-My strongest current areas are **Python, Bash, Nix and QML**. I am also developing my TypeScript, JavaScript and CSS skills through real projects rather than isolated exercises.
+My strongest current areas are **Python, JSON, Nix, CSS and QML**. I am also developing my TypeScript and JavaScript skills through real projects rather than isolated exercises.
 
 ```typescript
 const aether = {
     location: "United Kingdom",
-    identity: "gay",
-    os: ["NixOS", "Arch Linux", "Windows"],
+    os: ["NixOS", "Arch Linux", "Void Linux"],
 
     languages: {
-        comfortable: ["Python", "Bash", "Nix", "QML"],
-        developing: ["TypeScript", "JavaScript", "CSS"],
+        comfortable: ["Python", "CSS", "JSON", "Nix", "QML"],
+        developing: ["TypeScript", "JavaScript"],
         formats: ["JSON", "Markdown"],
     },
 
@@ -35,11 +34,11 @@ const aether = {
         linux: ["NixOS", "Hyprland", "Wayland", "systemd"],
         desktop: ["Quickshell", "Qt", "Rofi", "adaptive theming"],
         tooling: ["Git", "GitHub Actions", "unit tests", "CLI design"],
-        hardware: ["NVIDIA", "PipeWire", "Bluetooth", "multi-monitor"],
+        hardware: ["Ryzen 5 5600x", "RTX 5060", "32GB 3600Mhz"],
     },
 
     currentFocus:
-        "building useful, maintainable open-source projects",
+        "CommitQuest", "RicePrint"
 };
 ```
 
@@ -73,9 +72,6 @@ const aether = {
     </td>
   </tr>
 </table>
-
-> [!NOTE]
-> This README is a living snapshot. Projects and focus areas will evolve as I continue learning and building.
 
 <br>
 
