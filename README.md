@@ -1,7 +1,5 @@
 <a href="https://github.com/Aetherelic"><img src="images/banner.svg" alt="Aetherelic Banner" width="100%"></a>
 
-<img src="images/text.svg" alt="Aetherelic introduction" width="100%">
-
 <div align="center">
   <a href="https://github.com/Aetherelic"><img src="images/github.svg" alt="GitHub" width="160"></a>
   <a href="https://github.com/Aetherelic/arcane-guard"><img src="images/arcane-guard.svg" alt="Arcane Guard" width="160"></a>
