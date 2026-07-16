@@ -1,15 +1,17 @@
 <a href="https://github.com/Aetherelic"><img src="images/banner.svg" alt="Aetherelic Banner" width="100%"></a>
 
-<div align="center">
-  <a href="https://github.com/Aetherelic"><img src="images/github.svg" alt="GitHub" width="160"></a>
-  <a href="https://github.com/Aetherelic/arcane-guard"><img src="images/arcane-guard.svg" alt="Arcane Guard" width="160"></a>
-  <a href="https://github.com/Aetherelic/commitquest"><img src="images/commitquest.svg" alt="CommitQuest" width="160"></a>
-  <a href="https://github.com/Aetherelic/Riceprint"><img src="images/riceprint.svg" alt="Riceprint" width="160"></a>
+
 </div>
 
 <br>
 
 <img src="images/heading-about.svg" alt="A little more about me" width="100%">
+
+<div align="center">
+  <a href="https://github.com/Aetherelic"><img src="images/github.svg" alt="GitHub" width="160"></a>
+  <a href="https://github.com/Aetherelic/arcane-guard"><img src="images/arcane-guard.svg" alt="Arcane Guard" width="160"></a>
+  <a href="https://github.com/Aetherelic/commitquest"><img src="images/commitquest.svg" alt="CommitQuest" width="160"></a>
+  <a href="https://github.com/Aetherelic/Riceprint"><img src="images/riceprint.svg" alt="Riceprint" width="160"></a>
 
 <img src="images/about.svg" alt="Aetherelic technical snapshot" width="100%">
 
@@ -31,9 +33,9 @@ const aether = {
     },
 
     engineering: {
-        linux: ["NixOS", "Hyprland", "Wayland", "systemd"],
-        desktop: ["Quickshell", "Qt", "Rofi", "adaptive theming"],
-        tooling: ["Git", "GitHub Actions", "unit tests", "CLI design"],
+        linux: ["NixOS", "Hyprland", "Niri", "Wayland"],
+        desktop: ["Quickshell", "Qt", "Rofi"],
+        tooling: ["Git", "GitHub Actions", "CLI design"],
         hardware: ["Ryzen 5 5600x", "RTX 5060", "32GB 3600Mhz"],
     },
 
