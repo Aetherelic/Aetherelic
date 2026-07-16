@@ -1,20 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img">
 <defs>
-<linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
- <stop offset="0" stop-color="#0e1b2f"/><stop offset="1" stop-color="#151638"/>
-</linearGradient>
-<style>
- .bar { animation: grow 1.4s ease both; transform-origin:left; }
- @keyframes grow { from{transform:scaleX(.05);opacity:.2} to{transform:scaleX(1);opacity:1} }
-</style>
+<linearGradient id="room" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ece8df"/><stop offset="1" stop-color="#dcefe8"/></linearGradient>
+<style>.steam{animation:steam 2.6s ease-in-out infinite}@keyframes steam{0%,100%{opacity:.15;transform:translateY(3px)}50%{opacity:.7;transform:translateY(-5px)}}</style>
 </defs>
-<rect width="100%" height="100%" rx="24" fill="#0b1020"/>
 
-<rect width="1200" height="290" rx="24" fill="url(#card)"/>
-<text x="55" y="35" font-family="JetBrains Mono, monospace" font-size="17" fill="#98E8C1">a quick visual snapshot — not a scientific measurement</text>
-<text x="55" y="70" font-family="JetBrains Mono, monospace" font-size="16" fill="#dbeafe">Linux systems</text><rect x="260" y="54" width="775" height="15" rx="7" fill="#1e293b"/><rect class="bar" x="260" y="54" width="728" height="15" rx="7" fill="#26CEAA"/><text x="1060" y="70" font-family="JetBrains Mono, monospace" font-size="14" fill="#94a3b8">94%</text><text x="55" y="123" font-family="JetBrains Mono, monospace" font-size="16" fill="#dbeafe">Python / CLI</text><rect x="260" y="107" width="775" height="15" rx="7" fill="#1e293b"/><rect class="bar" x="260" y="107" width="636" height="15" rx="7" fill="#078D70"/><text x="1060" y="123" font-family="JetBrains Mono, monospace" font-size="14" fill="#94a3b8">82%</text><text x="55" y="176" font-family="JetBrains Mono, monospace" font-size="16" fill="#dbeafe">Nix / flakes</text><rect x="260" y="160" width="775" height="15" rx="7" fill="#1e293b"/><rect class="bar" x="260" y="160" width="604" height="15" rx="7" fill="#7BADE2"/><text x="1060" y="176" font-family="JetBrains Mono, monospace" font-size="14" fill="#94a3b8">78%</text><text x="55" y="229" font-family="JetBrains Mono, monospace" font-size="16" fill="#dbeafe">QML / desktop UI</text><rect x="260" y="213" width="775" height="15" rx="7" fill="#1e293b"/><rect class="bar" x="260" y="213" width="589" height="15" rx="7" fill="#5049CC"/><text x="1060" y="229" font-family="JetBrains Mono, monospace" font-size="14" fill="#94a3b8">76%</text>
-<g transform="translate(1110 30)">
-<rect x="0" y="0" width="36" height="20" fill="#078D70"/><rect x="0" y="20" width="36" height="20" fill="#26CEAA"/><rect x="0" y="40" width="36" height="20" fill="#98E8C1"/><rect x="0" y="60" width="36" height="20" fill="#FFFFFF"/><rect x="0" y="80" width="36" height="20" fill="#7BADE2"/><rect x="0" y="100" width="36" height="20" fill="#5049CC"/><rect x="0" y="120" width="36" height="20" fill="#3D1A78"/>
+
+<rect width="1200" height="330" rx="28" fill="url(#room)"/>
+
+<!-- desk -->
+<rect x="65" y="240" width="440" height="18" rx="9" fill="#6b5544"/>
+<rect x="95" y="258" width="22" height="58" fill="#6b5544"/>
+<rect x="453" y="258" width="22" height="58" fill="#6b5544"/>
+<rect x="120" y="80" width="330" height="155" rx="18" fill="#17202b"/>
+<rect x="138" y="98" width="294" height="119" rx="10" fill="#0f1720"/>
+<text x="158" y="129" font-family="JetBrains Mono, monospace" font-size="14" fill="#98E8C1">aether@nixos</text>
+<text x="158" y="158" font-family="JetBrains Mono, monospace" font-size="14" fill="#7BADE2">❯ python -m unittest</text>
+<text x="158" y="187" font-family="JetBrains Mono, monospace" font-size="13" fill="#dce6ef">tests passed ✓</text>
+<rect x="267" y="235" width="38" height="12" fill="#263341"/>
+<rect x="236" y="247" width="100" height="10" rx="5" fill="#263341"/>
+
+<!-- mug -->
+<rect x="390" y="208" width="44" height="38" rx="8" fill="#5049CC"/>
+<path d="M434 216 Q458 216 450 236 Q444 246 434 239" fill="none" stroke="#5049CC" stroke-width="7"/>
+<path class="steam" d="M402 202 Q395 190 404 180 M418 202 Q426 190 418 178" fill="none" stroke="#078D70" stroke-width="3"/>
+
+<!-- profile stats -->
+<text x="580" y="62" font-family="Inter, Arial" font-size="27" font-weight="800" fill="#17202b">A quick snapshot</text>
+<text x="580" y="91" font-family="Inter, Arial" font-size="15" fill="#55616f">Real experience, still learning, always building.</text>
+
+<g font-family="Inter, Arial">
+  <rect x="580" y="120" width="245" height="78" rx="18" fill="#ffffff" opacity=".86"/>
+  <text x="602" y="151" font-size="14" fill="#596574">PRIMARY FOCUS</text>
+  <text x="602" y="180" font-size="21" font-weight="800" fill="#078D70">Linux tooling</text>
+
+  <rect x="845" y="120" width="285" height="78" rx="18" fill="#ffffff" opacity=".86"/>
+  <text x="867" y="151" font-size="14" fill="#596574">DAILY ENVIRONMENT</text>
+  <text x="867" y="180" font-size="21" font-weight="800" fill="#5277C3">NixOS + Hyprland</text>
+
+  <rect x="580" y="216" width="245" height="78" rx="18" fill="#ffffff" opacity=".86"/>
+  <text x="602" y="247" font-size="14" fill="#596574">STRONGEST SKILLS</text>
+  <text x="602" y="276" font-size="19" font-weight="800" fill="#5049CC">Python • Bash • Nix</text>
+
+  <rect x="845" y="216" width="285" height="78" rx="18" fill="#ffffff" opacity=".86"/>
+  <text x="867" y="247" font-size="14" fill="#596574">CURRENT DIRECTION</text>
+  <text x="867" y="276" font-size="19" font-weight="800" fill="#078D70">Maintainable projects</text>
 </g>
 
+<!-- subtle pride ribbon -->
+<rect x="1145" y="0" width="8" height="330" fill="#078D70" opacity=".9"/><rect x="1152" y="0" width="8" height="330" fill="#26CEAA" opacity=".9"/><rect x="1159" y="0" width="8" height="330" fill="#98E8C1" opacity=".9"/><rect x="1166" y="0" width="8" height="330" fill="#FFFFFF" opacity=".9"/><rect x="1173" y="0" width="8" height="330" fill="#7BADE2" opacity=".9"/><rect x="1180" y="0" width="8" height="330" fill="#5049CC" opacity=".9"/><rect x="1187" y="0" width="8" height="330" fill="#3D1A78" opacity=".9"/>
 </svg>

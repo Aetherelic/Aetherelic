@@ -1,12 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="195" viewBox="0 0 1200 195" role="img">
-<defs></defs>
-<rect width="100%" height="100%" rx="24" fill="#0b1020"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img">
+<defs>
+<style>
+ .line1{animation:appear .9s ease both}
+ .line2{animation:appear .9s .25s ease both}
+ .line3{animation:appear .9s .5s ease both}
+ @keyframes appear{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:none}}
+</style>
+</defs>
 
-<text class="t1" x="600" y="62" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="29" font-weight="700" fill="#f8fafc">Hey, I’m Aether — I build things for Linux.</text>
-<text class="t2" x="600" y="104" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19" fill="#b8c7d9">Python tools, NixOS systems, QML interfaces and open-source experiments.</text>
-<g class="pill">
- <rect x="374" y="132" width="452" height="42" rx="21" fill="#101c31" stroke="#26CEAA"/>
- <text x="600" y="159" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="15" fill="#98E8C1">functionality × visual identity</text>
-</g>
+
+<rect width="1200" height="250" rx="28" fill="#f3f0e9"/>
+<path d="M0 208 C190 170 365 244 570 208 S960 175 1200 215 V250 H0Z" fill="#98E8C1" opacity=".8"/>
+<path d="M0 228 C250 200 370 264 630 225 S980 210 1200 235 V250 H0Z" fill="#7BADE2" opacity=".65"/>
+<circle cx="100" cy="76" r="34" fill="#26CEAA" opacity=".22"/>
+<circle cx="1080" cy="145" r="47" fill="#5049CC" opacity=".18"/>
+<text class="line1" x="600" y="75" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="800" fill="#1b2430">Hey, I’m Aether 👋</text>
+<text class="line2" x="600" y="121" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" fill="#394555">I build Linux tools, system configurations, and custom desktop experiences.</text>
+<text class="line3" x="600" y="158" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#078D70">open-source learner • UI enthusiast • chronic desktop customiser</text>
 
 </svg>

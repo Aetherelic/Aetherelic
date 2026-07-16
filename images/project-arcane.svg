@@ -1,12 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" role="img">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#063c36"/><stop offset="1" stop-color="#078D70"/></linearGradient>
-<style>.card{animation:rise .8s ease both} @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}</style></defs>
-<rect width="100%" height="100%" rx="24" fill="none"/>
-<rect class="card" x="2" y="2" width="516" height="226" rx="24" fill="url(#g)" stroke="#ffffff2e"/>
-<text x="36" y="57" font-family="JetBrains Mono, monospace" font-size="34" fill="#fff">🛡</text>
-<text x="88" y="55" font-family="JetBrains Mono, monospace" font-size="24" font-weight="800" fill="#fff">Arcane Guard</text>
-<text x="38" y="102" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">Static inspection for AUR packages and scripts.</text>
-<rect x="38" y="143" width="300" height="34" rx="17" fill="#02061755"/>
-<text x="188" y="165" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" fill="#fff">Python • CLI • tests • JSON</text>
-<text x="38" y="205" font-family="JetBrains Mono, monospace" font-size="13" fill="#dbeafe">open repository  →</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="260" viewBox="0 0 580 260" role="img">
+<defs>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#086c5d"/><stop offset="1" stop-color="#0d3f3b"/></linearGradient>
+<style>.thing{animation:float 4s ease-in-out infinite;transform-origin:center}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}</style>
+</defs>
+
+
+<rect x="1" y="1" width="578" height="258" rx="26" fill="url(#card)" stroke="#ffffff44"/>
+<g class="thing" transform="translate(42 40)"><path d="M70 5 L125 24 V75 C125 112 100 141 70 158 C40 141 15 112 15 75 V24 Z" fill="#ffffff28" stroke="#fff" stroke-width="3"/><path d="M43 78 L62 97 L101 55" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="240" y="58" font-family="Inter, Arial" font-size="28" font-weight="800" fill="#fff">Arcane Guard</text>
+<text x="240" y="88" font-family="Inter, Arial" font-size="15.5" fill="#e8eff3">Static safety inspection for Linux code.</text>
+<text x="240" y="130" font-family="Inter, Arial" font-size="15" fill="#eef4f7">• Python CLI</text><text x="240" y="157" font-family="Inter, Arial" font-size="15" fill="#eef4f7">• Detection rules + JSON reports</text><text x="240" y="184" font-family="Inter, Arial" font-size="15" fill="#eef4f7">• Tests and CI</text>
+<text x="240" y="232" font-family="JetBrains Mono, monospace" font-size="13.5" fill="#fff">VIEW PROJECT  ↗</text>
+
 </svg>

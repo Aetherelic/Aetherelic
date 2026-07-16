@@ -3,21 +3,21 @@
 <img src="images/text.svg" alt="Aetherelic introduction" width="100%">
 
 <div align="center">
-  <a href="https://github.com/Aetherelic"><img src="images/github.svg" alt="GitHub" width="170"></a>
-  <a href="https://github.com/Aetherelic/arcane-guard"><img src="images/arcane-guard.svg" alt="Arcane Guard" width="170"></a>
-  <a href="https://github.com/Aetherelic/commitquest"><img src="images/commitquest.svg" alt="CommitQuest" width="170"></a>
-  <a href="https://github.com/Aetherelic/Riceprint"><img src="images/riceprint.svg" alt="Riceprint" width="170"></a>
+  <a href="https://github.com/Aetherelic"><img src="images/github.svg" alt="GitHub" width="160"></a>
+  <a href="https://github.com/Aetherelic/arcane-guard"><img src="images/arcane-guard.svg" alt="Arcane Guard" width="160"></a>
+  <a href="https://github.com/Aetherelic/commitquest"><img src="images/commitquest.svg" alt="CommitQuest" width="160"></a>
+  <a href="https://github.com/Aetherelic/Riceprint"><img src="images/riceprint.svg" alt="Riceprint" width="160"></a>
 </div>
 
 <h2>🏳️‍🌈 A little more about me...</h2>
 
-<img src="images/about.svg" alt="Technical snapshot" width="100%">
+<img src="images/about.svg" alt="Aetherelic technical snapshot" width="100%">
 
 <div>
-  <p>Hey, I’m <b>Aether</b>, a Linux enthusiast and aspiring open-source developer from the United Kingdom.</p>
-  <p>I build <b>Linux tools, command-line applications, NixOS configurations and custom Wayland interfaces</b>, with an emphasis on practical software, clear documentation and thoughtful visual design.</p>
-  <p>My strongest current areas are <b>Python, Bash, Nix and QML</b>. I am also developing my TypeScript, JavaScript and CSS skills through real projects rather than isolated exercises.</p>
-  <p>Outside development, I enjoy Linux ricing, gaming, music and designing interfaces that feel coherent rather than assembled from unrelated parts.</p>
+  <p>Hey, I’m <b>Aether</b>, a gay Linux enthusiast and aspiring open-source developer from the United Kingdom.</p>
+  <p>I build <b>Linux tools, command-line applications, NixOS configurations and custom Wayland interfaces</b>, with an emphasis on practical software, maintainability and thoughtful visual design.</p>
+  <p>My strongest current areas are <b>Python, Bash, Nix and QML</b>. I am also developing my TypeScript, JavaScript and CSS skills through real projects.</p>
+  <p>Outside development, I enjoy Linux ricing, gaming, music and turning “a quick config change” into a complete desktop redesign.</p>
 </div>
 
 ```typescript
@@ -37,7 +37,7 @@ const aether = {
         hardware: ["NVIDIA", "PipeWire", "Bluetooth", "multi-monitor"],
     },
     interests: ["Linux distributions", "desktop design", "gaming", "music"],
-    currentFocus: "building useful, maintainable open-source projects",
+    currentFocus: "building useful and maintainable open-source projects",
 };
 ```
 
@@ -71,15 +71,15 @@ const aether = {
 </table>
 
 > [!NOTE]
-> This portfolio is a living snapshot. Projects, tools and focus areas will change as I continue learning and building.
+> This README is a living snapshot, so projects and focus areas will evolve as I continue learning and building.
 
 <h2>🐧 Linux experience</h2>
 
 | Area | Practical experience |
 |---|---|
 | **Systems** | NixOS, Arch Linux, flakes, package management, systemd and modular configuration |
-| **Desktop engineering** | Hyprland, Wayland, Quickshell, QML, Qt, Rofi and wallpaper-driven theming |
-| **Automation** | Python CLIs, Bash scripts, maintenance tools and configuration workflows |
+| **Desktop engineering** | Hyprland, Wayland, Quickshell, QML, Qt, Rofi and adaptive theming |
+| **Automation** | Python CLIs, Bash scripts, repair tools and system workflows |
 | **Hardware** | NVIDIA graphics, PipeWire audio, Bluetooth and multi-monitor layouts |
 | **Gaming** | Steam, Proton, GameMode, MangoHud and compatibility troubleshooting |
 | **Project quality** | Git, tests, GitHub Actions, release notes and user-facing documentation |
