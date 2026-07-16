@@ -3,8 +3,7 @@
 
 </div>
 
-<br>
-<img data-importer="image" align="left" height="150" src="https://cdn.discordapp.com/attachments/1502054388238123201/1527321915230785646/aszd0lg8kfe61.png?ex=6a5a3ce0&is=6a58eb60&hm=5fb6753e639614638a31c7e47acf96db9a031da8ffe7dfe2c53231dfae058e3d&"  />
+
 
 ###
 
