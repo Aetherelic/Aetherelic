@@ -4,6 +4,9 @@
 </div>
 
 <br>
+<img data-importer="image" align="left" height="150" src="https://cdn.discordapp.com/attachments/1502054388238123201/1527321915230785646/aszd0lg8kfe61.png?ex=6a5a3ce0&is=6a58eb60&hm=5fb6753e639614638a31c7e47acf96db9a031da8ffe7dfe2c53231dfae058e3d&"  />
+
+###
 
 <img src="images/heading-about.svg" alt="A little more about me" width="100%">
 
@@ -65,6 +68,20 @@ My strongest current areas are **Python, JSON, Nix, CSS and QML**. I am also dev
 [![Wallpaper Megathread](https://img.shields.io/badge/Wallpaper_Megathread-5049CC?style=for-the-badge&logo=materialdesign&logoColor=white)](https://github.com/Aetherelic/Wallpaper-Megathread)
 [![Hyprland Environment](https://img.shields.io/badge/Hyprland_Environment-26CEAA?style=for-the-badge&logo=wayland&logoColor=111827)](https://github.com/Aetherelic/adaptive-hyprland-rice)
 [![Gruvbox Fastfetch](https://img.shields.io/badge/Gruvbox_Fastfetch-D79921?style=for-the-badge&logo=linux&logoColor=282828)](https://github.com/Aetherelic/Gruvbox-Dark-Fastfetch)
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Aetherelic/Aetherelic/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/31n6gme2b5ebln6pgqpvkf7755gm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n6gme2b5ebln6pgqpvkf7755gm&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
 
 </div>
 
