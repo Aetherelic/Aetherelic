@@ -19,29 +19,6 @@ I build **Linux tools, command-line applications, The occasional rice and things
 
 My strongest current areas are **Python, JSON, Nix, CSS and QML**. I am also developing my TypeScript and JavaScript skills through real projects rather than isolated exercises.
 
-```typescript
-const aether = {
-    location: "United Kingdom",
-    os: ["NixOS", "Arch Linux", "Void Linux"],
-
-    languages: {
-        comfortable: ["Python", "CSS", "JSON", "Nix", "QML"],
-        developing: ["TypeScript", "JavaScript"],
-        formats: ["JSON", "Markdown"],
-    },
-
-    engineering: {
-        linux: ["NixOS", "Hyprland", "Niri", "Wayland"],
-        desktop: ["Quickshell", "Qt", "Rofi"],
-        tooling: ["Git", "GitHub Actions", "CLI design"],
-        hardware: ["Ryzen 5 5600x", "RTX 5060", "32GB 3600Mhz"],
-    },
-
-    currentFocus:
-        "CommitQuest", "RicePrint"
-};
-```
-
 <br>
 
 <img src="images/heading-projects.svg" alt="Featured projects" width="100%">
@@ -91,6 +68,4 @@ const aether = {
 
 </div>
 
-<br>
 
-<img src="images/cute.svg" alt="Aetherelic footer" width="100%">
