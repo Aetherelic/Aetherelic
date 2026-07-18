@@ -1,19 +1,29 @@
-<a href="https://github.com/Aetherelic"><img src="images/banner.svg" alt="Aetherelic Banner" width="100%"></a>
+<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://diinki.me" target="_blank">diinki's</a> github page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
+<br>
+<p align="center">
+🌹 Hello! I'm Ira, a diinki. I'm a programmer engineer artist nb that creates things ✧ (=w=) ✦ The network of creation is my home. <br>
+My own website is <a href="https://diinki.me" target="_blank">tbd</a> (might not be finished yet), which also contains my blog. 🌹
+</p>
+<h1> </h1>
+<br>
 
-
+<div float="left" align="center">
+    <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
+  <div>
+     <kbd>
+       <br>
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Machine ■ Operating System ■ Artwork ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       <br> <br>
+     </kbd>
+  <div>
+    <br>
 </div>
 
 
-
-###
-
-<img src="images/heading-about.svg" alt="A little more about me" width="100%">
-
-<div align="center">
-  <a href="https://github.com/Aetherelic"><img src="images/github.svg" alt="GitHub" width="160"></a>
-  <a href="https://github.com/Aetherelic/arcane-guard"><img src="images/arcane-guard.svg" alt="Arcane Guard" width="160"></a>
-  <a href="https://github.com/Aetherelic/commitquest"><img src="images/commitquest.svg" alt="CommitQuest" width="160"></a>
-  <a href="https://github.com/Aetherelic/Riceprint"><img src="images/riceprint.svg" alt="Riceprint" width="160"></a>
+  <p align="center">
+  ▮ I code in lots of different domains, therefore the stack or topic doesn't really matter to me. If I find it interesting, I'll do it. ▮
+  </p>
+        <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
 
 Hey, I’m **Aether**, a Linux enthusiast and aspiring open-source developer from the United Kingdom!
 
