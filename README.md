@@ -1,8 +1,8 @@
 <h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://diinki.me" target="_blank">diinki's</a> github page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-🌹 Hello! I'm Ira, a diinki. I'm a programmer engineer artist nb that creates things ✧ (=w=) ✦ The network of creation is my home. <br>
-My own website is <a href="https://diinki.me" target="_blank">tbd</a> (might not be finished yet), which also contains my blog. 🌹
+✧ ✦ Hello! I'm Aether, I am a Linux enthusiast and make things that I am interested ins ✧ ✦ 
+
 </p>
 <h1> </h1>
 <br>
