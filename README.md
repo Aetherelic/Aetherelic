@@ -36,7 +36,7 @@
 
 <p>
   I create random things, so the stack or topic
-  does not matter much to me. If I find it interesting, I will build it. currently working on a (Hyprland Shell)[https://github.com/Aetherelic/chroma-shell]
+  does not matter much to me. If I find it interesting, I will build it. currently working on a Hyprland Shell[https://github.com/Aetherelic/chroma-shell]
 </p>
 
 <br>
