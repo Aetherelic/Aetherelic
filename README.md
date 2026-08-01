@@ -29,14 +29,14 @@
 <br><br>
 
 <kbd>
-  &nbsp; ■ Machine &nbsp; ■ Operating System &nbsp; ■ Artwork &nbsp; ■
+  &nbsp; ■ NixOS &nbsp; ■ Ricing &nbsp; ■ Larping &nbsp; ■
 </kbd>
 
 <br><br><br>
 
 <p>
-  I create things across lots of different domains, so the stack or topic
-  does not matter much to me. If I find it interesting, I will build it. currently working on a Hyprland Shell 
+  I create random things, so the stack or topic
+  does not matter much to me. If I find it interesting, I will build it. currently working on a (Hyprland Shell)[https://github.com/Aetherelic/chroma-shell]
 </p>
 
 <br>
