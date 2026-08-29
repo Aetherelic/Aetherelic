@@ -1,32 +1,10 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="58" alt="Retro computer">
-
-# `Aether`
-
-<samp>
-❄ NIXOS // HYPRLAND // LINUX // RANDOM PROJECTS
-</samp>
+<img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="58" alt="Retro computer"> # `Aether` <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="58" alt="Retro computer">
 
 <br><br>
 
 <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="46%" alt="Retro desktop computer">
-
-<br><br>
-
-<kbd> NixOS </kbd>
-&nbsp;
-<kbd> Hyprland </kbd>
-&nbsp;
-<kbd> QML </kbd>
-&nbsp;
-<kbd> Ricing </kbd>
-&nbsp;
-<kbd> CLI </kbd>
-
-</div>
-
-<br>
 
 ### `~/about`
 <div align="center">
@@ -36,9 +14,6 @@
 
 <div align="center">
 
-[**↳ Chroma Shell**](https://github.com/Aetherelic/chroma-shell)
-
-</div>
 
 ### `~/system`
 
