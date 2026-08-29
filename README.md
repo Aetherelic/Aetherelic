@@ -30,7 +30,8 @@
 
 ### `~/about`
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/8fdd0183-c386-4a5b-ade7-fc114239e575" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/0af9a42d-a9a0-4685-b53b-7eaad773902b" />
+
 
 <div align="center">
 
