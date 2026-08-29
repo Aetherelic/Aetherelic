@@ -29,8 +29,9 @@
 <br>
 
 ### `~/about`
-
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/0af9a42d-a9a0-4685-b53b-7eaad773902b" />
+<div align="center">
+  <img src="./aether-terminal-blink.gif" width="85%" alt="Aether terminal">
+</div>
 
 
 <div align="center">
