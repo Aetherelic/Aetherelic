@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="54" alt="Retro computer">
+<img src="YOUR-RETRO-GIF-URL-HERE" width="72" alt="Retro terminal gif">
 
 # Aether
 
 <samp>
-LINUX // NIXOS // HYPRLAND // RANDOM PROJECTS
+NixOS / Hyprland / Linux / whatever interesting thing I decide to break next
 </samp>
 
 <br><br>
 
-<img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="46%" alt="Retro desktop computer">
+<img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="44%" alt="Retro desktop computer">
 
 <br><br>
 
@@ -22,56 +22,68 @@ LINUX // NIXOS // HYPRLAND // RANDOM PROJECTS
 &nbsp;
 <kbd> Shells </kbd>
 &nbsp;
-<kbd> Larping </kbd>
+<kbd> CLI </kbd>
 
 <br><br>
 
-<pre>
+### terminal
+
+<pre align="left">
 aether@nixos:~$ whoami
 Aether
 
 aether@nixos:~$ cat about.txt
 Linux enthusiast
-desktop tinkerer
+NixOS enjoyer
+Hyprland tinkerer
 professional config-file victim
 
-I mostly build whatever catches my attention.
-No fixed stack, no fixed topic, no grand plan.
-If it looks interesting, I'll probably mess with it.
+aether@nixos:~$ echo $STATUS
+building whatever seems interesting
 </pre>
 
 <br>
 
-### `CURRENTLY`
+### current focus
 
-<pre>
+<pre align="left">
+aether@nixos:~$ ls projects/current
+chroma-shell
+ryoku-nixos-port
+random-other-thing-i-should-probably-finish
+
 aether@nixos:~$ cat current-project
-Chroma Shell
-
-aether@nixos:~$ cat focus
-Hyprland shell development
-NixOS integration
-UI / UX polish
-making Linux look unnecessarily good
+Working on a Hyprland shell:
+https://github.com/Aetherelic/chroma-shell
 </pre>
 
-<a href="https://github.com/Aetherelic/chroma-shell">
-  <b>↳ Chroma Shell</b>
-</a>
+<br>
 
-<br><br>
+### interests
 
-### `INTERESTS`
+<pre align="left">
+aether@nixos:~$ printf "%s\n" \
+  "NixOS" \
+  "Hyprland" \
+  "QML" \
+  "CLI tools" \
+  "ricing" \
+  "system design"
 
-<samp>
-NixOS · Hyprland · Linux · QML · CLI tools · Ricing · System design
-</samp>
+NixOS
+Hyprland
+QML
+CLI tools
+ricing
+system design
+</pre>
 
-<br><br>
+<br>
 
-### `SETUP.LOG`
+### setup
 
-<pre>
+<pre align="left">
+aether@nixos:~$ fastfetch
 OS        NixOS
 WM        Hyprland
 Shell     zsh
@@ -80,7 +92,7 @@ Editor    Helix
 Prompt    Starship
 
 status    probably rebuilding
-uptime    until I touch the config
+uptime    until I touch a config
 </pre>
 
 <br>
@@ -89,21 +101,12 @@ uptime    until I touch the config
 
 <br><br>
 
-<samp>
-────────────────────────────<br>
-SYSTEM MESSAGE<br>
-build things // break things // learn why<br>
-────────────────────────────
-</samp>
-
-<br><br>
-
 <sub>
-if it interests me, i'll probably build it
+If it interests me, I’ll probably build it.
 </sub>
 
 <br><br>
 
-<samp>[ EOF ]</samp>
+<samp>[ eof ]</samp>
 
 </div>
