@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="YOUR-RETRO-GIF-URL-HERE" width="72" alt="Retro terminal gif">
+<img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="58" alt="Retro computer">
 
-# Aether
+# `Aether`
 
 <samp>
-NixOS / Hyprland / Linux / whatever interesting thing I decide to break next
+❄ NIXOS // HYPRLAND // LINUX // RANDOM PROJECTS
 </samp>
 
 <br><br>
 
-<img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="44%" alt="Retro desktop computer">
+<img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="46%" alt="Retro desktop computer">
 
 <br><br>
 
@@ -18,72 +18,60 @@ NixOS / Hyprland / Linux / whatever interesting thing I decide to break next
 &nbsp;
 <kbd> Hyprland </kbd>
 &nbsp;
-<kbd> Ricing </kbd>
+<kbd> QML </kbd>
 &nbsp;
-<kbd> Shells </kbd>
+<kbd> Ricing </kbd>
 &nbsp;
 <kbd> CLI </kbd>
 
-<br><br>
+</div>
 
-### terminal
+<br>
 
-<pre align="left">
+### `~/about`
+
+<pre>
 aether@nixos:~$ whoami
 Aether
 
 aether@nixos:~$ cat about.txt
-Linux enthusiast
-NixOS enjoyer
-Hyprland tinkerer
-professional config-file victim
 
-aether@nixos:~$ echo $STATUS
-building whatever seems interesting
+Linux enthusiast.
+NixOS enjoyer.
+Desktop tinkerer.
+Professional config-file victim.
+
+I build whatever catches my interest.
 </pre>
 
-<br>
+### `~/current`
 
-### current focus
+<pre>
+aether@nixos:~$ ls projects/current/
 
-<pre align="left">
-aether@nixos:~$ ls projects/current
-chroma-shell
-ryoku-nixos-port
-random-other-thing-i-should-probably-finish
+chroma-shell/
+ryoku-nixos-port/
 
-aether@nixos:~$ cat current-project
-Working on a Hyprland shell:
-https://github.com/Aetherelic/chroma-shell
+aether@nixos:~$ cat focus
+
+Hyprland shells
+NixOS integration
+desktop UI / UX
+CLI tooling
+making Linux look unnecessarily good
 </pre>
 
-<br>
+<div align="center">
 
-### interests
+[**↳ Chroma Shell**](https://github.com/Aetherelic/chroma-shell)
 
-<pre align="left">
-aether@nixos:~$ printf "%s\n" \
-  "NixOS" \
-  "Hyprland" \
-  "QML" \
-  "CLI tools" \
-  "ricing" \
-  "system design"
+</div>
 
-NixOS
-Hyprland
-QML
-CLI tools
-ricing
-system design
-</pre>
+### `~/system`
 
-<br>
+<pre>
+aether@nixos:~$ fastfetch --logo none
 
-### setup
-
-<pre align="left">
-aether@nixos:~$ fastfetch
 OS        NixOS
 WM        Hyprland
 Shell     zsh
@@ -91,22 +79,47 @@ Terminal  Kitty
 Editor    Helix
 Prompt    Starship
 
-status    probably rebuilding
-uptime    until I touch a config
+aether@nixos:~$ systemctl is-system-running
+probably rebuilding
+</pre>
+
+### `~/interests`
+
+<pre>
+aether@nixos:~$ cat interests
+
+❄ NixOS
+└─ declarative systems
+
+◈ Hyprland
+└─ shells / ricing / UI
+
+> Linux
+└─ CLI tools / system integration
+
++ whatever else looks interesting
 </pre>
 
 <br>
+
+<div align="center">
 
 <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="72" alt="Compact disc">
 
 <br><br>
 
+<samp>
+BOOT OK&nbsp;&nbsp;•&nbsp;&nbsp;CONFIG QUESTIONABLE&nbsp;&nbsp;•&nbsp;&nbsp;SYSTEM ALIVE
+</samp>
+
+<br><br>
+
 <sub>
-If it interests me, I’ll probably build it.
+if it interests me, i'll probably build it
 </sub>
 
 <br><br>
 
-<samp>[ eof ]</samp>
+<samp>[ EOF ]</samp>
 
 </div>
