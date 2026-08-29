@@ -30,36 +30,7 @@
 
 ### `~/about`
 
-<pre>
-aether@nixos:~$ whoami
-Aether
-
-aether@nixos:~$ cat about.txt
-
-Linux enthusiast.
-NixOS enjoyer.
-Desktop tinkerer.
-Professional config-file victim.
-
-I build whatever catches my interest.
-</pre>
-
-### `~/current`
-
-<pre>
-aether@nixos:~$ ls projects/current/
-
-chroma-shell/
-ryoku-nixos-port/
-
-aether@nixos:~$ cat focus
-
-Hyprland shells
-NixOS integration
-desktop UI / UX
-CLI tooling
-making Linux look unnecessarily good
-</pre>
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/8fdd0183-c386-4a5b-ade7-fc114239e575" />
 
 <div align="center">
 
