@@ -6,49 +6,7 @@
 
 <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="46%" alt="Retro desktop computer">
 
-### `~/about`
-<div align="center">
-  <img src="./aether-terminal-blink.gif" width="85%" alt="Aether terminal">
-</div>
 
-
-<div align="center">
-
-
-### `~/system`
-
-<pre>
-aether@nixos:~$ fastfetch --logo none
-
-OS        NixOS
-WM        Hyprland
-Shell     zsh
-Terminal  Kitty
-Editor    Helix
-Prompt    Starship
-
-aether@nixos:~$ systemctl is-system-running
-probably rebuilding
-</pre>
-
-### `~/interests`
-
-<pre>
-aether@nixos:~$ cat interests
-
-❄ NixOS
-└─ declarative systems
-
-◈ Hyprland
-└─ shells / ricing / UI
-
-> Linux
-└─ CLI tools / system integration
-
-+ whatever else looks interesting
-</pre>
-
-<br>
 
 <div align="center">
 
